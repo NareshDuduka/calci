@@ -80,7 +80,7 @@ public class Calculator {
 
 
 
-    /*public double sqroot(double number1) {
+    public double sqroot(double number1) {
         logger.info("[SQ ROOT] - " + number1);
         double result = Math.sqrt(number1);
         logger.info("[RESULT - SQ ROOT] - " + result);
@@ -88,7 +88,7 @@ public class Calculator {
     }
 
 
-    public double power(double number1, double number2) {
+    /*public double power(double number1, double number2) {
         logger.info("[POWER - " + number1 + " RAISED TO] " + number2);
         double result = Math.pow(number1,number2);
         logger.info("[RESULT - POWER] - " + result);
